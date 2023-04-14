@@ -49,7 +49,7 @@
   justify-content: space-between;
 }
 .card:hover{
-  cursor: pointer;
+  /*cursor: pointer;
 }
 .details{
   width: 90%;
@@ -78,7 +78,7 @@
   margin-top: 1rem;
   justify-content: space-between;
   align-items: center;
-  background-color: white;
+  background-color: white;*/
 }
 .img_preview{
   width: 90px;
@@ -108,7 +108,7 @@
 }
 .details__img .bx:hover{
   scale: 1.1;
-}
+}/*
 .img_selected{
   max-height: 180px;
   object-fit: contain;
@@ -140,7 +140,7 @@
 }
 .product_sugestions h2{
   width: 100%;
-}
+}*/
 .navbar div{
   display: flex;
   align-items: center;
